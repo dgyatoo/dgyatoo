@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Python, JavaScript, HTML, css
-- **Frameworks**: React, Node.js, Django, Spring
-- **Tools**: Git, Docker, vs Code
-- **Databases**: MongoDB
+- **Languages**: **JavaScript, HTML, css**
+- **Frameworks**: **Node.js**
+- **Tools**: **Git, Docker, vs Code**
+- **Databases**: **MongoDB**
 
 ## 🚀 Projects
 
