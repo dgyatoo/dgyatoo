@@ -4,16 +4,16 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Python, JavaScript, Java, C++
+- **Languages**: Python, JavaScript, HTML, css
 - **Frameworks**: React, Node.js, Django, Spring
-- **Tools**: Git, Docker, Jenkins, VS Code
-- **Databases**: MySQL, MongoDB, PostgreSQL
+- **Tools**: Git, Docker, vs Code
+- **Databases**: MongoDB
 
 ## 🚀 Projects
 
 Here are some of the projects I've been working on:
 
-- [**whatsapp bot & bug**](https://github.com/dgyatoo/project-name): 
+- [**whatsapp bot & bug**](https://github.com/dgyatoo/Xbug): 
 - [**Yato Project**](https://github.com/dgyatoo/another-project): 
 
 ## 📈 GitHub Stats
@@ -23,9 +23,7 @@ Here are some of the projects I've been working on:
 
 ## 📫 How to reach me
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)
-- **Twitter**: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+- **Email**: [your-email@example.com](dreamguyyato@gmail.com)
 
 Feel free to check out my repositories and get in touch if you want to collaborate on any projects or just have a chat!
 
