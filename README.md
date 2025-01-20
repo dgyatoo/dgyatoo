@@ -23,7 +23,7 @@ Here are some of the projects I've been working on:
 
 ## 📫 How to reach me
 
-- **Email**: [your-email@example.com](dreamguyyato@gmail.com)
+- **Email**: [your-email@dreamguyyato@gmail.com]
 
 Feel free to check out my repositories and get in touch if you want to collaborate on any projects or just have a chat!
 
