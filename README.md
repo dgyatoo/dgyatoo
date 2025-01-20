@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 Here are some of the projects I've been working on:
 
 - [**whatsapp bot & bug**](https://github.com/dgyatoo/Xbug): 
-- [**Yato Project**](https://github.com/dgyatoo/another-project): 
+- [**Yato Project**](https://github.com/dgyatoo/Bugbot-API): 
 
 ## 📈 GitHub Stats
 
