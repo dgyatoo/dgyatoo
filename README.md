@@ -1,12 +1,16 @@
 # Hi there 👋, I'm [dgyatoo](https://github.com/dgyatoo)
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, open-source contributions, and continuous learning.
+Welcome to my GitHub profile
+👋 Hi, I’m yato
+❎ I am just a student (Beginner)
+👨🏻‍🦱 18 years old
+🇮🇳 Currently living in India, Northeast, Mizoram
 
 ## 🛠️ Technologies & Tools
 
 - **Languages**: **JavaScript, HTML, css**
 - **Frameworks**: **Node.js**
-- **Tools**: **Git, Docker, vs Code**
+- **Tools**: **Git, Docker, vs Code, quickedit**
 - **Databases**: **MongoDB**
 
 ## 🚀 Projects
