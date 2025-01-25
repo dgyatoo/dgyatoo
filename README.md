@@ -1,10 +1,10 @@
 # Hi there 👋, I'm [dgyatoo](https://github.com/dgyatoo)
 
-Welcome to my GitHub profile
-👋 Hi, I’m yato
-❎ I am just a student (Beginner)
-👨🏻‍🦱 18 years old
-🇮🇳 Currently living in India, Northeast, Mizoram
+
+**👋 Hi, I’m yato**
+**❎ I am just a student (Beginner)**
+**👨🏻‍🦱 18 years old**
+**🇮🇳 Currently living in India, Northeast, Mizoram**
 
 ## 🛠️ Technologies & Tools
 
