@@ -1,6 +1,5 @@
 # Hi there 👋, I'm [dgyatoo](https://github.com/dgyatoo)
 
-
 **👋 Hi, I’m yato**
 **❎ I am just a student (Beginner)**
 **👨🏻‍🦱 18 years old**
