@@ -1,5 +1,9 @@
 # Hi there 👋, I'm [dgyatoo](https://github.com/dgyatoo)
 
+<p align="center">
+<img src="https://file.btch.rf.gd/file/6o1drhbfobv7i79myz3n.png" alt="nz" width="350"/>
+</p>
+
 **👋 Hi, I’m yato**
 **❎ I am just a student (Beginner)**
 **👨🏻‍🦱 18 years old**
