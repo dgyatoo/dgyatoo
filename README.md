@@ -6,7 +6,7 @@
 
 **👋 Hi, I’m yato**
 **❎ I am just a student (Beginner)**
-**👨🏻‍🦱 18 years old**
+**👨🏻‍🦱 19 years old**
 **🇮🇳 Currently living in India, Northeast, Mizoram**
 
 ## 🛠️ Technologies & Tools
